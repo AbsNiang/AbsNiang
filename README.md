@@ -2,7 +2,7 @@
 
 Final-year Computer Science student at the University of Warwick, interested in data infrastructure, ML and geospatial work.
 
-🔭 **Currently:** working on my dissertation, *BFM-inspired Sequential Recommenders for Robustness in Dynamic Environments*
+🔭 **Currently:** working on my dissertation, *BFM-inspired Sequential Recommenders for Robustness in Dynamic Environments*, which looks at how recommender systems cope when user behaviour shifts over time
 
 ### Experience
 - **HubSpot**, Software Engineering Intern (AI Infrastructure): backend APIs and Spark/Kafka data pipelines
